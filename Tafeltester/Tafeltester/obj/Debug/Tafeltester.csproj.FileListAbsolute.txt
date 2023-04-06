@@ -1,0 +1,17 @@
+C:\Users\thijs\source\repos\Tafeltester\Tafeltester\bin\Debug\Tafeltester.exe.config
+C:\Users\thijs\source\repos\Tafeltester\Tafeltester\bin\Debug\Tafeltester.exe
+C:\Users\thijs\source\repos\Tafeltester\Tafeltester\bin\Debug\Tafeltester.pdb
+C:\Users\thijs\source\repos\Tafeltester\Tafeltester\obj\Debug\Tafeltester.csproj.AssemblyReference.cache
+C:\Users\thijs\source\repos\Tafeltester\Tafeltester\obj\Debug\Tafeltester.csproj.SuggestedBindingRedirects.cache
+C:\Users\thijs\source\repos\Tafeltester\Tafeltester\obj\Debug\MainWindow.g.cs
+C:\Users\thijs\source\repos\Tafeltester\Tafeltester\obj\Debug\App.g.cs
+C:\Users\thijs\source\repos\Tafeltester\Tafeltester\obj\Debug\Tafeltester_MarkupCompile.cache
+C:\Users\thijs\source\repos\Tafeltester\Tafeltester\obj\Debug\Tafeltester_MarkupCompile.lref
+C:\Users\thijs\source\repos\Tafeltester\Tafeltester\obj\Debug\MainWindow.baml
+C:\Users\thijs\source\repos\Tafeltester\Tafeltester\obj\Debug\Tafeltester.g.resources
+C:\Users\thijs\source\repos\Tafeltester\Tafeltester\obj\Debug\Tafeltester.Properties.Resources.resources
+C:\Users\thijs\source\repos\Tafeltester\Tafeltester\obj\Debug\Tafeltester.csproj.GenerateResource.cache
+C:\Users\thijs\source\repos\Tafeltester\Tafeltester\obj\Debug\Tafeltester.csproj.CoreCompileInputs.cache
+C:\Users\thijs\source\repos\Tafeltester\Tafeltester\obj\Debug\Tafeltester.exe
+C:\Users\thijs\source\repos\Tafeltester\Tafeltester\obj\Debug\Tafeltester.pdb
+C:\Users\thijs\source\repos\Tafeltester\Tafeltester\obj\Debug\Tafeltester_Content.g.cs
