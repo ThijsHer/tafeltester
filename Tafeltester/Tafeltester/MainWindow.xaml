@@ -34,16 +34,19 @@
                      Width="280"
                      TextChanged="nameBox_TextChanged"
                      Background="#FFA1D7D8"
-                     TextAlignment="Center" />
+                     TextAlignment="Center"
+                     FontSize="24" />
             <TextBlock Name="userName"
                        HorizontalAlignment="Left"
-                       Margin="318,0,0,0"
+                       Margin="318,198,0,0"
                        TextWrapping="Wrap"
-                       VerticalAlignment="Center"
+                       VerticalAlignment="Top"
                        Height="23"
                        Width="185"
-                       TextAlignment="Center"><Run Language="nl-nl"
-                                                   Text="type hier uw naam in" /></TextBlock>
+                       TextAlignment="Center"
+                       FontSize="16"
+                       FontWeight="Bold"><Run Language="nl-nl"
+                                              Text="type hier uw naam in" /></TextBlock>
             <Button Content="Start"
                     HorizontalAlignment="Center"
                     Margin="0,310,0,0"
@@ -66,7 +69,7 @@
                                               Text="Vul uw naam in astublieft" /></TextBlock>
         </Grid>
         <Grid Name="difficulty"
-              Visibility="hidden">
+              Visibility="Hidden">
 
             <Button Content="Easy"
                     HorizontalAlignment="Left"
@@ -100,7 +103,7 @@
                     FontSize="20" />
             <TextBlock x:Name="namefield"
                        HorizontalAlignment="Left"
-                       Margin="239,148,0,0"
+                       Margin="239,134,0,0"
                        TextWrapping="Wrap"
                        VerticalAlignment="Top"
                        Height="41"
@@ -132,7 +135,7 @@
                      VerticalAlignment="Top"
                      Width="176"
                      Height="51"
-                     FontSize="16"
+                     FontSize="22"
                      TextAlignment="Center" />
             <Button Name="checkbtn"
                     Content="Check"
@@ -156,7 +159,7 @@
                        Height="23"
                        Width="197"
                        TextAlignment="Center"
-                       FontSize="16" />
+                       FontSize="22" />
 
         </Grid>
         <RadioButton Content="RadioButton"

@@ -86,7 +86,7 @@ namespace Tafeltester
             }
 
             string name = nameBox.Text;
-            namefield.Text = "Howdy, " + name;
+            namefield.Text = "Hello, " + name;
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
@@ -140,7 +140,11 @@ namespace Tafeltester
             if (numberOfQuestions < 10)
             {
                 string input_1 = awnsertb.Text;
-                if (input_1.All(char.IsDigit) && input_1.Length > 0)
+                if (string.IsNullOrEmpty(input_1))
+                {
+                    input_1 = "0";
+                }
+                if (input_1.All(char.IsDigit))
                 {
                     if (Convert.ToInt32(input_1) == number3)
                     {
@@ -162,6 +166,10 @@ namespace Tafeltester
 
                     awnsertb.Text = "";
 
+                }
+                else
+                {
+                    MessageBox.Show("vul geen letters in");
                 }
 
             }
